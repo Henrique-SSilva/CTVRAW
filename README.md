@@ -13,7 +13,7 @@
 
  2. **CONTEXTO DA CRIAÇÃO DO PROJETO:**
 
-- CTVRAW foi o projeto de TCC (Trabalho de Conclusão de Grupo) do curso Tecnologia em Segurança da Informação pela faculdade FATEC São Caetano do Sul (Antonio Russo), e foi pensado, planejado, desenvolvido e apresentado no primeiro semestre de 2020.
+- CTVRAW foi o projeto de TCC (Trabalho de Conclusão de Curso) do curso Tecnologia em Segurança da Informação pela faculdade FATEC São Caetano do Sul (Antonio Russo), e foi pensado, planejado, desenvolvido e apresentado no primeiro semestre de 2020.
 
 
  3. **O QUE É O PROJETO:**
