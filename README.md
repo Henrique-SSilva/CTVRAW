@@ -1,5 +1,5 @@
 # CTVRAW 
-> Porutuguês-br
+> Português-br
 ###  Checklist de Tratativas de Vulnerabilidades e Riscos em Aplicações Web
  1. **DESCRIÇÃO DOS ARQUIVOS:**
 
@@ -38,7 +38,7 @@
 - **OWASP_web_aplication_checklist:** Documantation about vulnerabilities treatments this project was based;
 - **PS:** Others files used as bibliographical reference, are from others autors and those are not free-distribuited files, some of them are paid and we are not allowed to share them, because that, we do not share them, however we cited them in the documentation which is in the college.
 
-2. **CONTEXT OF PROJET CREATION:**
+2. **CONTEXT OF PROJECT CREATION:**
 - CTVRAW was a Final Paper project of Security Information tecnologist degree at college FATEC São Caetano do Sul (Antonio Russo), and it was thought, planned, developed and submitted in the first semester of 2020.
 
 3. **WHAT THIS PROJECT WAS:**
